@@ -1,0 +1,1 @@
+var json_SaranadanPrasarana_7 = {"type":"FeatureCollection","name":"SaranadanPrasarana_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":110.71017,"Y":-7.41559,"Z":"Lapangan Desa Wates"},"geometry":{"type":"Point","coordinates":[110.710173336688996,-7.41559057805366]}}]}

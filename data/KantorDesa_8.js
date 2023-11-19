@@ -1,0 +1,1 @@
+var json_KantorDesa_8 = {"type":"FeatureCollection","name":"KantorDesa_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":110.71013,"Y":-7.41467,"Z":"Kantor Desa Wates"},"geometry":{"type":"Point","coordinates":[110.710125323282,-7.41466943364559]}}]}
